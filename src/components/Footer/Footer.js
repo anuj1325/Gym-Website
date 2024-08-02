@@ -11,10 +11,13 @@ const Footer = () => (
       <p>
         Copyright &copy;2020 All rights reserved | This template is made with{" "}
         <i className="far fa-heart"></i> by{" "}
-        
-        Anuj
-        
-      
+        <a
+          href="https://colorlib.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Colorlib
+        </a>
       </p>
     </Container>
   </footer>

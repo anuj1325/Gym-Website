@@ -1,7 +1,7 @@
 /** @jsxRuntime classic */
 /** @jsx jsx */
 import { jsx, css } from "@emotion/react";
-import Button from "../GlobalComponents/Button";
+import { Button} from 'react-bootstrap';
 const MainInfo = () => (
   <div css={styles} className="mainInfo">
     <h3>Build Up Your</h3>
